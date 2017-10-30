@@ -17,7 +17,8 @@ realworld items.(collectors items can be anything from action figures,movie prop
 Descriptions, 
 Pictures, 
 values, 
-qualities I.E. ware and tear.  
+qualities I.E. ware and tear.
+willing to sell  
 Wish lists.  What the collector needs to complete a collection or a rare item the collector is looking for.
 the app needs to hook collectors who want items to collectors accounts who have the said item. 
 Community feed that links news from other collectors of like items.  Allows them to create content about those items.
@@ -39,8 +40,20 @@ picture of item
 quality of item
 apraised value of Item or personal value of item. 
 qualities
+willing to sell check box
 
 needs list 
-same data type as otems have just different list.
+same data type as items have just different list. onece submited needs to pushitems from other users who are wanting to sell that items
+
+community feed that list those with like itemswhat they aee posting advertisments etc...
+
+this comes from the users’ likes show 
+title
+pictures of items 
+description
+
+they need to be clickable and show an expanded view of the full item list
+
+
 
 
